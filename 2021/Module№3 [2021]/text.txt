@@ -1,0 +1,2 @@
+cout << 4 << endl;  //nebla bla bla 
+cout << 5 << endl; // ne bla2 bla2 bla2 
